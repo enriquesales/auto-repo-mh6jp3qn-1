@@ -1,0 +1,9 @@
+{
+  "name": "auto-repo-mh6jp3qn-1",
+  "description": "A simple PHP project",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4"
+  }
+}
